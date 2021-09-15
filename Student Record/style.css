@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@445&display=swap');
+body{
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+    background-image: url('./background.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+div{
+    background-color: darkgray;
+    margin-top: 50px;
+    opacity: 0.8;
+    }
+    h1{
+    font-size: 40px;
+    }
+    h2{
+    font-size:  30px;
+    color: darkgreen;
+    }
+    label{
+        font-size: 25px;
+        color: darkblue
+    }
+    span{
+        color: darkmagenta;
+        font-size: 25px;
+    }
